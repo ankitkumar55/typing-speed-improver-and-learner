@@ -21,7 +21,7 @@ You can also clone the repository to your desired location. Then navigate to it:
 
 ```
 git clone https://github.com/ankitkumar55/typing-speed-improver-and-learner.git
-cd bloktech
+cd typing-speed-improver-and-learner
 ```
 
 Once you're in the directory, install the required node modules:
@@ -42,6 +42,16 @@ nodemon
 
 You can now go to http://localhost:8000/ in your browser and view the app. Create an account on the /register page, and go to the /login page to switch between users. Enjoy!
 
+## Authors
+
+👤 **Ankit Kumar**
+
+- Github: [@Ankit Kumar](https://github.com/ankitkumar55)
+
+👤 **Vikas Kumar**
+
+- Github: [@Vikas Kumar](https://github.com/vk498959)
+
 
 ## Contribute
 
@@ -59,5 +69,5 @@ Here's a simple guide on how you can get involved:
 This project is made and shared under the MIT license. For more details, read the [license.md](https://github.com/ankitkumar55/typing-speed-improver-and-learner/blob/main/LICENSE).
 
 
- #### Happy Typing
+ #### Happy Typing!
 
