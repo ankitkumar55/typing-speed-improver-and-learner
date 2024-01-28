@@ -2,6 +2,19 @@
 
 Welcome to `Typing Speed Improver`, a web application designed to enhance your typing skills and boost your speed through interactive exercises. Whether you're a beginner looking to build a strong foundation or an experienced typist aiming for greater speed and accuracy, this platform is here to help you achieve your goals.
 
+### ***Technologies***
+* Git
+    * Github
+* VS Code
+* JavaScript
+* HTML
+* CSS
+* MongoDB
+    * Mongoose
+    * Atlas
+* Node/Express
+    * Nodemon
+
 ## Key Features
 
 - **Typing Practice:** Engage in typing exercises to improve your typing speed.
