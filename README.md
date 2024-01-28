@@ -11,13 +11,37 @@ Welcome to `Typing Speed Improver`, a web application designed to enhance your t
 - **Leaderboard:** Compete with other users and see where you stand on the leaderboard.
 - **Customizable Exercises:** Choose different difficulty levels and practice specific types of texts.
 
-## Running Locally
+## Installation guide 🖱️
+### Requirements
+To run this project, you'll need Node and Git installed. Also, any text editor and MongoDB compass are useful, if you want to look into the code and see the database structure for yourself.
 
-Running the projects locally is a breeze. Just follow these simple steps:
+### Install
 
-1. Clone or download the repository to your local machine.
-2. Open the project directory.
-3. Launch the `index.html` file in your preferred browser.
+You can also clone the repository to your desired location. Then navigate to it:
+
+```
+git clone https://github.com/ankitkumar55/typing-speed-improver-and-learner.git
+cd bloktech
+```
+
+Once you're in the directory, install the required node modules:
+
+```
+npm install
+```
+
+Finally, start the server:
+```
+npm run start
+```
+
+To run the app in dev mode, run:
+```
+nodemon
+```
+
+You can now go to http://localhost:8000/ in your browser and view the app. Create an account on the /register page, and go to the /login page to switch between users. Enjoy!
+
 
 ## Contribute
 
@@ -30,4 +54,10 @@ Here's a simple guide on how you can get involved:
 2. **Make your changes**: Create a new branch in your forked repository and make the desired changes. You can suggest improvements, fix bugs or add new features.
 
 3. **Submit a pull request**: Once you are satisfied with your changes, submit a pull request on this repository.
+
+## License 📄
+This project is made and shared under the MIT license. For more details, read the [license.md](https://github.com/ankitkumar55/typing-speed-improver-and-learner/blob/main/LICENSE).
+
+
+ #### Happy Typing
 
